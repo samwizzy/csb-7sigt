@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://samwizzy.github.io/csb-7sigt/static/css/main.1154427f.chunk.css",
+    "main.js": "https://samwizzy.github.io/csb-7sigt/static/js/main.bf44565e.chunk.js",
+    "main.js.map": "https://samwizzy.github.io/csb-7sigt/static/js/main.bf44565e.chunk.js.map",
+    "runtime-main.js": "https://samwizzy.github.io/csb-7sigt/static/js/runtime-main.78e19da2.js",
+    "runtime-main.js.map": "https://samwizzy.github.io/csb-7sigt/static/js/runtime-main.78e19da2.js.map",
+    "static/css/2.637f5471.chunk.css": "https://samwizzy.github.io/csb-7sigt/static/css/2.637f5471.chunk.css",
+    "static/js/2.abfa90d1.chunk.js": "https://samwizzy.github.io/csb-7sigt/static/js/2.abfa90d1.chunk.js",
+    "static/js/2.abfa90d1.chunk.js.map": "https://samwizzy.github.io/csb-7sigt/static/js/2.abfa90d1.chunk.js.map",
+    "index.html": "https://samwizzy.github.io/csb-7sigt/index.html",
+    "static/css/2.637f5471.chunk.css.map": "https://samwizzy.github.io/csb-7sigt/static/css/2.637f5471.chunk.css.map",
+    "static/css/main.1154427f.chunk.css.map": "https://samwizzy.github.io/csb-7sigt/static/css/main.1154427f.chunk.css.map",
+    "static/js/2.abfa90d1.chunk.js.LICENSE.txt": "https://samwizzy.github.io/csb-7sigt/static/js/2.abfa90d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78e19da2.js",
+    "static/css/2.637f5471.chunk.css",
+    "static/js/2.abfa90d1.chunk.js",
+    "static/css/main.1154427f.chunk.css",
+    "static/js/main.bf44565e.chunk.js"
+  ]
+}
